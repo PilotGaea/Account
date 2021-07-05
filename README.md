@@ -1,4 +1,4 @@
-# DoCommand 範例專案檔
+# Account 範例專案檔
 PilotGaea O’view Map Server Account Plugin
 
 [開發者文件](https://nlscsample.pilotgaea.com.tw/demo/ProgrammingGuide/src/04.ServerSidePlugin/04.2_PluginSample.html#account)
@@ -39,7 +39,7 @@ Map Server在啟動或Plugin目錄被重新設定時，會重新開始搜尋指�
   int id = m_MapDocument.NewTileMapLayer(m_sLayer, urlPatterns, mtxSet);
   ```
   
-  請將此行重新輸入可看見此函式可輸入參數作為帳號密。<br/>
+  請將此行重新輸入可看見此函式可輸入參數作為帳號密碼。<br/>
   接著將程式碼增加輸入用參數並重新建置啟動程式：
   
   ```csharp
