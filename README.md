@@ -46,7 +46,7 @@ Map Server在啟動或Plugin目錄被重新設定時，會重新開始搜尋指�
   int id = m_MapDocument.NewTileMapLayer(m_sLayer, urlPatterns, mtxSet,-1,"pilotgaea","aeagtolip");
   ```
   
-  + Web端：由於網頁端無法使用參數輸入帳號密碼，因此需在AccountPlugin.dll中新增允許特定IP的條件，請回到本範例專案並在Login函式中新增一個判斷IP的條件式：
+  + Web端：由於網頁端無法使用參數輸入帳號密碼，因此需在AccountPlugin.dll中新增允許特定IP的條件，請回到本範例專案並在Login函式中找到條件判斷式，在其中新增一個判斷IP的條件：
   
   ```csharp
   public override bool Login(LoginInputParameter InputData,out LoginOutputParameter OutputData){
