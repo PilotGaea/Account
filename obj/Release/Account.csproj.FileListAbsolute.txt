@@ -1,0 +1,8 @@
+D:\公司Sample_Git\Map Server Plugin\Account\bin\Release\Account.dll
+D:\公司Sample_Git\Map Server Plugin\Account\bin\Release\Account.pdb
+D:\公司Sample_Git\Map Server Plugin\Account\bin\Release\TMPEngine.dll
+D:\公司Sample_Git\Map Server Plugin\Account\bin\Release\TMPEngine.xml
+D:\公司Sample_Git\Map Server Plugin\Account\obj\Release\Account.csproj.CoreCompileInputs.cache
+D:\公司Sample_Git\Map Server Plugin\Account\obj\Release\Account.csproj.CopyComplete
+D:\公司Sample_Git\Map Server Plugin\Account\obj\Release\Account.dll
+D:\公司Sample_Git\Map Server Plugin\Account\obj\Release\Account.pdb
